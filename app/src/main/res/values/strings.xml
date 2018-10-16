@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">RecyclerView</string>
+    <string name="app_name">Marvel Super Heroes</string>
+    <string name="title_one">Captain America</string>
+    <string name="title_two">Black Widow</string>
+    <string name="title_three">Iron Man</string>
+    <string name="title_four">Thor</string>
+    <string name="title_five">Spider Man</string>
+    <string name="title_six">Scarlet Witch</string>
 </resources>
